@@ -46,7 +46,8 @@ This page is intended as a comprehensive list of the resources created on the to
 * http://pivotallabs.com/leave-your-migrations-in-your-rails-engines/
 
 ### Talks
-
+* [Feature Flagging with Ruby on Rails Engines](https://www.youtube.com/watch?v=rMOn2H7h3oY)
+* [Nickel City Ruby 2013 Lightning Talk Rails Engines in Large Apps](https://www.youtube.com/watch?v=mztVptkvLfw)
 * http://www.confreaks.com/videos/3344-railsconf-refactoring-towards-component-based-rails-architectures
 * http://www.confreaks.com/videos/2646-rockymountainruby2013-how-i-architected-my-big-rails-app-for-success
 * http://www.confreaks.com/videos/2350-mwrc2013-component-based-architectures-in-ruby-and-rails
