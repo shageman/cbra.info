@@ -5,7 +5,7 @@ This page is intended as a comprehensive list of the resources created on the to
 
 ### Books
 
-![CBRA Book Cover](https://octodex.github.com/images/yaktocat.png)
+![CBRA Book Cover](images/cbra.png)
 
 [Component-based Rails Applications](https://leanpub.com/cbra) by [Stephan Hagemann](@shageman). The source code to the book is at https://github.com/shageman/cbra_book_code.
 
