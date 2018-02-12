@@ -1,7 +1,7 @@
 # cbra.info
 ## Component-Base Rails Applications Resources
 
-This page is intended as a comprehensive list of the resources created on the topic of _cbra_. Component-based Rails (with the 'a' standing for architecture or application) is a code organization and management technique that breaks large applications into small, distinct parts. These parts are separate from and maintain explicit dependencies between each other. Components are implemented as gems and engines.</p>
+This page is intended as a comprehensive list of the resources created on the topic of _cbra_. Component-based Rails (with the 'a' standing for architecture or application) is a code organization and management technique that breaks large applications into small, distinct parts. These parts are separate from and maintain explicit dependencies between each other. Components are implemented as gems and engines.
 
 ### Books
 
