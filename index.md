@@ -7,7 +7,7 @@ This page is intended as a comprehensive list of the resources created on the to
 
 ![CBRA Book Cover](images/cbra.jpg)
 
-[Component-based Rails Applications](https://www.amazon.com/Component-Based-Rails-Applications-Addison-Wesley-Professional/dp/0134774582) by [Stephan Hagemann](@shageman). The source code to the book is at [https://github.com/shageman/cbra_book_code](https://github.com/shageman/cbra_book_code).
+[Component-based Rails Applications](https://www.amazon.com/Component-Based-Rails-Applications-Addison-Wesley-Professional/dp/0134774582) by [Stephan Hagemann](@shageman). The source code to the book is at [https://github.com/shageman/cbra_book_code](https://github.com/shageman/cbra_book_code). Please submit errata to the book as [github issues](https://github.com/shageman/component-based-rails-applications-book/issues?utf8=%E2%9C%93&q=label%3Aerrata+).
 
 ### Sample apps
 
