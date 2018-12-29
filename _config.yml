@@ -17,7 +17,7 @@ title: Component-Based Rails
 email: stephan@stephanhagemann.com
 description: >- # this means to ignore newlines until "baseurl:"
   All things Component-Based Rails Application
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://cbra.info" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: shageman
 github_username:  shageman
@@ -49,13 +49,12 @@ exclude:
 
 # List of links in the navigation bar
 navbar-links:
+  The Book: "book"
   Resources:
-    - The book: "#books"
-    - Talks: "#talks"
-    - Blog Posts: "#blog-posts"
-    - Tools: "#tools"
-    - Sample Apps: "#sample-apps"
-    - Gists: "#gists"
+    - Talks: "resources#talks"
+    - Blog Posts: "resources#blog-posts"
+    - Tools: "resources#tools"
+    - Sample Apps: "resources#sample-applications"
   Author's home: "http://stephanhagemann.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -119,11 +118,11 @@ author:
 #  yelp: yourname
 
 # Select which share links to show in posts
-# share-links-active:
-#   twitter: true
-#   facebook: true
-#   google: false
-#   linkedin: true
+share-links-active:
+  twitter: false
+  facebook: false
+  google: false
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -267,7 +266,7 @@ link-tags: true
 #           help: "Check to publish post, uncheck to hide."
 
 plugins:
-  - jekyll-paginate
+  # - jekyll-paginate
   - jekyll-sitemap
 
 # Beautiful Jekyll / Dean Attali
