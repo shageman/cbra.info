@@ -1,7 +1,9 @@
-# cbra.info
-## Component-Base Rails Applications Resources
-
-This page is intended as a comprehensive list of the resources created on the topic of _cbra_. Component-based Rails (with the 'a' standing for architecture or application) is a code organization and management technique that breaks large applications into small, distinct parts. These parts are separate from and maintain explicit dependencies between each other. Components are implemented as gems and engines.
+---
+layout: page
+title: Component-Based Rails Applications
+subtitle: Large Domains Under Control
+use-site-title: true
+---
 
 ### Books
 
@@ -9,21 +11,13 @@ This page is intended as a comprehensive list of the resources created on the to
 
 [Component-based Rails Applications](https://www.amazon.com/Component-Based-Rails-Applications-Addison-Wesley-Professional/dp/0134774582) by [Stephan Hagemann](@shageman). The source code to the book is at [https://github.com/shageman/cbra_book_code](https://github.com/shageman/cbra_book_code). Please submit errata to the book as [github issues](https://github.com/shageman/component-based-rails-applications-book/issues?utf8=%E2%9C%93&q=label%3Aerrata+).
 
-### Sample apps
-
-* [https://github.com/shageman/the_next_big_thing](https://github.com/shageman/the_next_big_thing)
-* [https://github.com/shageman/rails_container_and_engines](https://github.com/shageman/rails_container_and_engines) (deprecated)
-* [https://github.com/taskrabbit/rails_engines_example](https://github.com/taskrabbit/rails_engines_example)
-
-### Tools
-
-* [https://github.com/dugancathal/transdeps](https://github.com/dugancathal/transdeps) Gem to find inconsistent dependency versions in cbra apps.
-* [https://github.com/shageman/cobratest](https://github.com/shageman/cobratest) Gem to run tests in cbra app based on git changes in components
-* [https://github.com/shageman/cobradeps](https://github.com/shageman/cobradeps) Gem to print dependency graph of cbra app
-
-### Scripts
-
-* [https://gist.github.com/fernandes/f1dd4401ebdfc4754116](https://gist.github.com/fernandes/f1dd4401ebdfc4754116) Script to bump the version of a dependency across all components
+### Talks
+* [Feature Flagging with Ruby on Rails Engines](https://www.youtube.com/watch?v=rMOn2H7h3oY)
+* [Nickel City Ruby 2013 Lightning Talk Rails Engines in Large Apps](https://www.youtube.com/watch?v=mztVptkvLfw)
+* [http://www.confreaks.com/videos/3344-railsconf-refactoring-towards-component-based-rails-architectures](http://www.confreaks.com/videos/3344-railsconf-refactoring-towards-component-based-rails-architectures)
+* [http://www.confreaks.com/videos/2646-rockymountainruby2013-how-i-architected-my-big-rails-app-for-success](http://www.confreaks.com/videos/2646-rockymountainruby2013-how-i-architected-my-big-rails-app-for-success)
+* [http://www.confreaks.com/videos/2350-mwrc2013-component-based-architectures-in-ruby-and-rails](http://www.confreaks.com/videos/2350-mwrc2013-component-based-architectures-in-ruby-and-rails)
+* [http://www.confreaks.com/videos/1263-rockymtnruby2012-wrangling-large-rails-codebases](http://www.confreaks.com/videos/1263-rockymtnruby2012-wrangling-large-rails-codebases)
 
 ### Blog Posts
 
@@ -45,10 +39,19 @@ This page is intended as a comprehensive list of the resources created on the to
 * [http://pivotallabs.com/moving-db-tables-between-rails-engines/](http://pivotallabs.com/moving-db-tables-between-rails-engines/)
 * [http://pivotallabs.com/leave-your-migrations-in-your-rails-engines/](http://pivotallabs.com/leave-your-migrations-in-your-rails-engines/)
 
-### Talks
-* [Feature Flagging with Ruby on Rails Engines](https://www.youtube.com/watch?v=rMOn2H7h3oY)
-* [Nickel City Ruby 2013 Lightning Talk Rails Engines in Large Apps](https://www.youtube.com/watch?v=mztVptkvLfw)
-* [http://www.confreaks.com/videos/3344-railsconf-refactoring-towards-component-based-rails-architectures](http://www.confreaks.com/videos/3344-railsconf-refactoring-towards-component-based-rails-architectures)
-* [http://www.confreaks.com/videos/2646-rockymountainruby2013-how-i-architected-my-big-rails-app-for-success](http://www.confreaks.com/videos/2646-rockymountainruby2013-how-i-architected-my-big-rails-app-for-success)
-* [http://www.confreaks.com/videos/2350-mwrc2013-component-based-architectures-in-ruby-and-rails](http://www.confreaks.com/videos/2350-mwrc2013-component-based-architectures-in-ruby-and-rails)
-* [http://www.confreaks.com/videos/1263-rockymtnruby2012-wrangling-large-rails-codebases](http://www.confreaks.com/videos/1263-rockymtnruby2012-wrangling-large-rails-codebases)
+### Tools
+
+* [https://github.com/dugancathal/transdeps](https://github.com/dugancathal/transdeps) Gem to find inconsistent dependency versions in cbra apps.
+* [https://github.com/shageman/cobratest](https://github.com/shageman/cobratest) Gem to run tests in cbra app based on git changes in components
+* [https://github.com/shageman/cobradeps](https://github.com/shageman/cobradeps) Gem to print dependency graph of cbra app
+
+### Sample apps
+
+* [https://github.com/shageman/the_next_big_thing](https://github.com/shageman/the_next_big_thing)
+* [https://github.com/shageman/rails_container_and_engines](https://github.com/shageman/rails_container_and_engines) (deprecated)
+* [https://github.com/taskrabbit/rails_engines_example](https://github.com/taskrabbit/rails_engines_example)
+
+### Scripts
+
+* [https://gist.github.com/fernandes/f1dd4401ebdfc4754116](https://gist.github.com/fernandes/f1dd4401ebdfc4754116) Script to bump the version of a dependency across all components
+
