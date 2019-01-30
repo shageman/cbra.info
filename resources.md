@@ -53,5 +53,8 @@ use-site-title: true
 * [Rails Engines Example](https://github.com/taskrabbit/rails_engines_example) - Rails engines example by Task Rabbit
 * [CBRA book code](https://github.com/shageman/cbra_book_code) - Code to the *Component-Based Rails Applications* book, which includes many componentized versions of one sample app
 
+### Mailing Lists / Forums
+* [Components in Rails Google Group](https://groups.google.com/forum/#!forum/components-in-rails) - largely inactive at the moment, but significant public archive with ~90 members
+
 
 Please email [stephan@stephanhagemann.com](mailto:stephan@stephanhagemann.com) to have resources added to this list!
