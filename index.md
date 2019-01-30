@@ -33,6 +33,6 @@ mount AwesomeFeature::Engine, at: "/awesome_feature"
 
 Now, develop your application within this component (it is a Rails engine) like you would normally!
 
-Obviously this is just the start... For all the snags you are going to run into and the little tricks you need to overcome them, check out [the Component-Based Rails Applications book](book). Consult it also for the *big* questions: Which components to create? How to refactor towards components? When to split off microservices?
+Obviously this is just the start... For all the snags you are going to run into and the little tricks you need to overcome them, check out [the Component-Based Rails Applications book](book/index.html). Consult it also for the *big* questions: Which components to create? How to refactor towards components? When to split off microservices?
 
-Be sure to also check out the [resources page](resources) where you will find conference talk videos, blog posts, and links to tools and code samples.
+Be sure to also check out the [resources page](resources/index.html) where you will find conference talk videos, blog posts, and links to tools and code samples.

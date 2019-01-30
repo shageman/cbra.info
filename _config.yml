@@ -17,7 +17,7 @@ title: Component-Based Rails
 email: stephan@stephanhagemann.com
 description: >- # this means to ignore newlines until "baseurl:"
   All things Component-Based Rails Application
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://cbra.info" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: shageman
 github_username:  shageman
@@ -49,12 +49,12 @@ exclude:
 
 # List of links in the navigation bar
 navbar-links:
-  The Book: "book"
+  The Book: "book/index.html"
   Resources:
-    - Talks: "resources#talks"
-    - Blog Posts: "resources#blog-posts"
-    - Tools: "resources#tools"
-    - Sample Apps: "resources#sample-applications"
+    - Talks: "resources/index.html#talks"
+    - Blog Posts: "resources/index.html#blog-posts"
+    - Tools: "resources/index.html#tools"
+    - Sample Apps: "resources/index.html#sample-applications"
   Author's home: "http://stephanhagemann.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
