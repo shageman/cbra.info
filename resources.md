@@ -57,4 +57,4 @@ use-site-title: true
 * [Components in Rails Google Group](https://groups.google.com/forum/#!forum/components-in-rails) - largely inactive at the moment, but significant public archive with ~90 members
 
 
-Please email [stephan@stephanhagemann.com](mailto:stephan@stephanhagemann.com) to have resources added to this list!
+Please email [stephan@stephanhagemann.com](mailto:stephan@stephanhagemann.com) to have resources added to this list or submit a PR to https://github.com/shageman/cbra.info!
