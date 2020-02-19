@@ -18,7 +18,7 @@ email: stephan@stephanhagemann.com
 description: >- # this means to ignore newlines until "baseurl:"
   All things Component-Based Rails Application
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://cbra.info" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cbra.info" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: shageman
 github_username:  shageman
 
