@@ -40,7 +40,7 @@ use-site-title: true
 * [Reduce memory footprint requiring portions of your component based Rails application with Bundler](http://teotti.com/reduce-memory-footprint-requiring-portions-of-your-component-based-rails-applications/) by Enrico Teotti, January 27, 2015
 * [Physical separation in Rails apps](https://blog.arkency.com/physical-separation-in-rails-apps/) by Andrzej Krzywda, September 14, 2017
 * [Rails components — neither engines nor gems](https://blog.arkency.com/rails-components-neither-engines-nor-gems/) by Paweł Pacana, September 14, 2017
-* [Creating Local Rails Engines](https://amrani.io/blog/creating-local-rails-engine/) by David Amrani, August 11, 2019
+* [Creating Local Rails Engines](https://hocnest.com/blog/creating-local-rails-engine/) by David Amrani, August 11, 2019
 
 ### Tools
 
