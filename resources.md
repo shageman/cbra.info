@@ -45,6 +45,9 @@ use-site-title: true
 * [Creating Local Rails Engines](https://hocnest.com/blog/creating-local-rails-engine/) by David Amrani, August 11, 2019
 * [How to Break Apart a Rails Monolith](https://kellysutton.com/2020/03/12/how-to-break-apart-a-rails-monolith.html) by Kelly Sutton, March 12, 2020
 
+#### Related Posts
+
+* [Spark Joy by Running Fewer Tests](https://engineering.shopify.com/blogs/engineering/spark-joy-by-running-fewer-tests) by Jessica Xie, June 11, 2020
 
 ### Tools
 
