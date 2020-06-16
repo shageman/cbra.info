@@ -41,7 +41,10 @@ use-site-title: true
 * [Physical separation in Rails apps](https://blog.arkency.com/physical-separation-in-rails-apps/) by Andrzej Krzywda, September 14, 2017
 * [Rails components — neither engines nor gems](https://blog.arkency.com/rails-components-neither-engines-nor-gems/) by Paweł Pacana, September 14, 2017
 * [The Modular Monolith: Rails Architecture](https://medium.com/@dan_manges/the-modular-monolith-rails-architecture-fb1023826fc4) by Dan Manges, January 13, 2018
+* [Deconstructing the Monolith: Designing Software that Maximizes Developer Productivity ](https://engineering.shopify.com/blogs/engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity) by Kirsten Westeinde, February 21, 2019
 * [Creating Local Rails Engines](https://hocnest.com/blog/creating-local-rails-engine/) by David Amrani, August 11, 2019
+* [How to Break Apart a Rails Monolith](https://kellysutton.com/2020/03/12/how-to-break-apart-a-rails-monolith.html) by Kelly Sutton, March 12, 2020
+* [The Modular Monolith: Rails Architecture](https://medium.com/@dan_manges/the-modular-monolith-rails-architecture-fb1023826fc4) by Dan Manges, January 23, 2018
 
 ### Tools
 
