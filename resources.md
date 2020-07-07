@@ -64,5 +64,7 @@ use-site-title: true
 ### Mailing Lists / Forums
 * [Components in Rails Google Group](https://groups.google.com/forum/#!forum/components-in-rails) - largely inactive at the moment, but significant public archive with ~90 members
 
+### CBRA-related collections
+* [RMM - Rails Modular Monolith](https://hocnest.com/modular-monolith-resources/) - maintained by HocNest
 
 Please email [stephan@stephanhagemann.com](mailto:stephan@stephanhagemann.com) to have resources added to this list or [submit a PR](https://github.com/shageman/cbra.info)!
