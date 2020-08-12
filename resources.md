@@ -18,6 +18,7 @@ use-site-title: true
 * [Feature Flagging with Ruby on Rails Engines](https://www.youtube.com/watch?v=rMOn2H7h3oY) by Enrico Teotti, 2014 
 * [Refactoring Towards Component-based Rails Architectures](http://www.confreaks.com/videos/3344-railsconf-refactoring-towards-component-based-rails-architectures) by Stephan Hagemann, 2014
 * [Get started with Component-based Rails applications!](https://confreaks.tv/videos/railsconf2015-get-started-with-component-based-rails-applications) by Stephan Hagemann, 2015
+* [Between monoliths and microservices](https://railsconf.com/2020/video/vladimir-dementyev-between-monoliths-and-microservices) by Vladimir Dementyev, 2020
 
 ### Blog Posts
 
