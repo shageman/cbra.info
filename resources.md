@@ -45,6 +45,7 @@ use-site-title: true
 * [Deconstructing the Monolith: Designing Software that Maximizes Developer Productivity ](https://engineering.shopify.com/blogs/engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity) by Kirsten Westeinde, February 21, 2019
 * [Creating Local Rails Engines](https://hocnest.com/blog/creating-local-rails-engine/) by David Amrani, August 11, 2019
 * [How to Break Apart a Rails Monolith](https://kellysutton.com/2020/03/12/how-to-break-apart-a-rails-monolith.html) by Kelly Sutton, March 12, 2020
+* [Under Deconstruction: The State of Shopify’s Monolith](https://engineering.shopify.com/blogs/engineering/shopify-monolith) by Philip Müller, September 16, 2020
 
 #### Related Posts
 
