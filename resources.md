@@ -8,6 +8,7 @@ use-site-title: true
 
 ### Books
 * [Component-Based Rails Applications](/book/index.html) by Stephan Hagemann
+* [Modular Rails](https://devblast.com/c/modular-rails) by Thibault Denizet
 
 ### Talks
 
@@ -68,5 +69,6 @@ use-site-title: true
 
 ### CBRA-related collections
 * [RMM - Rails Modular Monolith](https://hocnest.com/modular-monolith-resources/) - maintained by HocNest
+* [Modular Rails](https://www.modularrails.com/) 
 
 Please email [stephan@stephanhagemann.com](mailto:stephan@stephanhagemann.com) to have resources added to this list or [submit a PR](https://github.com/shageman/cbra.info)!
