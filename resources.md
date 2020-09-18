@@ -53,6 +53,8 @@ use-site-title: true
 * [transdeps](https://github.com/dugancathal/transdeps) - Gem to find inconsistent dependency versions in cbra apps (Check out how to bump the version of a dependency across all components with [this gist](https://gist.github.com/fernandes/f1dd4401ebdfc4754116))
 * [cobratest](https://github.com/shageman/cobratest) - Gem to run tests in cbra app based on git changes in components
 * [cobradeps](https://github.com/shageman/cobradeps) - Gem to print dependency graph of cbra apps
+* [Flexport Rubocop](https://github.com/flexport/rubocop-flexport) - Rubocop Rules enforcing component boundaries
+* [Packwerk](https://github.com/shopify/packwerk) - Enforce engine boundaries (link doesn't work yet, to be released later in September)
 
 ### Sample Applications
 
@@ -61,7 +63,8 @@ use-site-title: true
 * [CBRA book code](https://github.com/shageman/cbra_book_code) - Code to the *Component-Based Rails Applications* book, which includes many componentized versions of one sample app
 
 ### Mailing Lists / Forums
-* [Components in Rails Google Group](https://groups.google.com/forum/#!forum/components-in-rails) - largely inactive at the moment, but significant public archive with ~90 members
+* [Components in Rails Google Group](https://groups.google.com/forum/#!forum/components-in-rails) - largely inactive, but significant public archive with ~90 members
+* [Ruby/Rails Modularity Slack](https://rubymod.slack.com)
 
 ### CBRA-related collections
 * [RMM - Rails Modular Monolith](https://hocnest.com/modular-monolith-resources/) - maintained by HocNest
