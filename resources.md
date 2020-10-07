@@ -25,6 +25,7 @@ use-site-title: true
 
 * [Enforcing Modularity in Rails Apps with Packwerk](https://engineering.shopify.com/blogs/engineering/enforcing-modularity-rails-apps-packwerk) by Maple Ong, September 23, 2020
 * [Under Deconstruction: The State of Shopify’s Monolith](https://engineering.shopify.com/blogs/engineering/shopify-monolith) by Philip Müller, September 16, 2020
+* [Enforcing Modularity inside a Rails Monolith](https://medium.com/airtribe/enforcing-modularity-inside-a-rails-monolith-f856adb54e1d) by Thomas Pagram, August 11, 2020
 * [Spark Joy by Running Fewer Tests](https://engineering.shopify.com/blogs/engineering/spark-joy-by-running-fewer-tests) by Jessica Xie, June 11, 2020
 * [How to Break Apart a Rails Monolith](https://kellysutton.com/2020/03/12/how-to-break-apart-a-rails-monolith.html) by Kelly Sutton, March 12, 2020
 * [Creating Local Rails Engines](https://hocnest.com/blog/creating-local-rails-engine/) by David Amrani, August 11, 2019
