@@ -33,6 +33,9 @@ use-site-title: true
 * [The Modular Monolith: Rails Architecture](https://medium.com/@dan_manges/the-modular-monolith-rails-architecture-fb1023826fc4) by Dan Manges, January 13, 2018
 * [Rails components — neither engines nor gems](https://blog.arkency.com/rails-components-neither-engines-nor-gems/) by Paweł Pacana, September 14, 2017
 * [Physical separation in Rails apps](https://blog.arkency.com/physical-separation-in-rails-apps/) by Andrzej Krzywda, September 14, 2017
+* [Engine-based Rails Apps: Pros & Cons](https://www.benroesch.com/2016/01/25/engine-based-rails-apps-pros-and-cons) by Ben Roesch, January 25, 2016
+* [The little engine that could: Part II](https://medium.com/@sarahbranon/the-little-engine-that-could-part-ii-1d09931f4d3d) by Sarah Branon, May 18, 2015
+* [The little engine that could](https://medium.com/@sarahbranon/the-little-engine-that-could-e0893181bd34) by Sarah Branon, April 25, 2015
 * [Reduce memory footprint requiring portions of your component based Rails application with Bundler](http://teotti.com/reduce-memory-footprint-requiring-portions-of-your-component-based-rails-applications/) by Enrico Teotti, January 27, 2015
 * [Merits of strict separation in component-based Rails applications](https://content.pivotal.io/blog/merits-of-strict-separation-in-component-based-rails-applications) by Stephan Hagemann, November 20, 2014
 * [Gemfile hierarchy in Ruby on Rails component based architecture](http://teotti.com/gemfiles-hierarchy-in-ruby-on-rails-component-based-architecture/) by Enrico Teotti, November 19, 2014
