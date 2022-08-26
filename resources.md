@@ -61,6 +61,7 @@ use-site-title: true
 * [cobradeps](https://github.com/shageman/cobradeps) - Gem to print dependency graph of cbra apps
 * [Flexport Rubocop](https://github.com/flexport/rubocop-flexport) - Rubocop Rules enforcing component boundaries
 * [Packwerk](https://github.com/shopify/packwerk) - Enforce engine boundaries (link doesn't work yet, to be released later in September)
+* [CBRA Contracts](https://github.com/bluebottlecoffee/CBRA-Contracts) - CBRA Contracts provides a DSL and "convention over configuration" approach to define contract interfaces between application components
 
 ### Sample Applications
 
