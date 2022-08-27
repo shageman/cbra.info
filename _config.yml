@@ -49,12 +49,12 @@ exclude:
 
 # List of links in the navigation bar
 navbar-links:
-  The Book: "book/index.html"
+  The Book: "book"
   Resources:
-    - Talks: "resources/index.html#talks"
-    - Blog Posts: "resources/index.html#blog-posts"
-    - Tools: "resources/index.html#tools"
-    - Sample Apps: "resources/index.html#sample-applications"
+    - Talks: "resources#talks"
+    - Blog Posts: "resources#blog-posts"
+    - Tools: "resources#tools"
+    - Sample Apps: "resources#sample-applications"
   Author's home: "http://stephanhagemann.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)

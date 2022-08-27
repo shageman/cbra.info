@@ -2,6 +2,7 @@
 layout: page
 date: Dec 29, 2018
 use-site-title: true
+permalink: /book
 ---
 <style>
 .center {

@@ -4,10 +4,11 @@ title: Resources
 subtitle: Existing works on &#35;cbra
 date: Fed 19, 2020
 use-site-title: true
+permalink: /resources
 ---
 
 ### Books
-* [Component-Based Rails Applications](/book/index.html) by Stephan Hagemann
+* [Component-Based Rails Applications](/book) by Stephan Hagemann
 * [Modular Rails](https://devblast.com/c/modular-rails) by Thibault Denizet
 
 ### Talks

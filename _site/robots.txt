@@ -1,1 +1,1 @@
-Sitemap: http://cbra.info/sitemap.xml
+Sitemap: https://cbra.info/sitemap.xml

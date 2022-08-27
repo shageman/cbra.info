@@ -3,8 +3,8 @@
   <channel>
     <title>Component-Based Rails</title>
     <description>All things Component-Based Rails Application</description>
-    <link>http://cbra.info</link>
-    <atom:link href="http://cbra.info/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://cbra.info</link>
+    <atom:link href="https://cbra.info/feed.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
