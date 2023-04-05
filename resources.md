@@ -57,6 +57,7 @@ permalink: /resources
 
 ### Tools
 
+* [cobra_commander](https://github.com/powerhome/cobra_commander) - Tools for working with Component Based Rails Apps: Includes tools for graphing both Ruby and Javascript components in an application and their relationships, as well as selectively testing components based on changes made.
 * [transdeps](https://github.com/dugancathal/transdeps) - Gem to find inconsistent dependency versions in cbra apps (Check out how to bump the version of a dependency across all components with [this gist](https://gist.github.com/fernandes/f1dd4401ebdfc4754116))
 * [cobratest](https://github.com/shageman/cobratest) - Gem to run tests in cbra app based on git changes in components
 * [cobradeps](https://github.com/shageman/cobradeps) - Gem to print dependency graph of cbra apps
