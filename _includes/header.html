@@ -29,81 +29,74 @@ color: white;
     -moz-box-shadow: 1px 1px 3px #000;
     -webkit-box-shadow: 1px 1px 3px #000;
     box-shadow: 1px 1px 3px #000;">X</a>
-  <p>I consider the CBRA approach deprecated. <strong><a href="https://gradualmodularization.com">Gradual modularization</a></strong> based on packages gives us all the benefits of components (and more) for much lower costs</p>
+  <p>I consider the CBRA approach deprecated. <strong><a href="https://gradualmodularization.com">Gradual
+        modularization</a></strong> based on packages gives us all the benefits of components (and more) for much lower
+    costs</p>
 </section>
 
 {% if page.bigimg or page.title %}
 
 {% if page.bigimg %}
-  <div id="header-big-imgs" data-num-img={% if page.bigimg.first %}{{ page.bigimg.size }}{% else %}1{% endif %}
-    {% for bigimg in page.bigimg %}
-	  {% assign imgnum = forloop.index %}
-	  {% for imginfo in bigimg %}
-	    {% if imginfo[0] %}
-		  data-img-src-{{ imgnum }}="{{ imginfo[0] | prepend: site.baseurl | replace: '//', '/' }}"
-		  data-img-desc-{{ imgnum }}="{{ imginfo[1] }}"
-		{% else %}
-		  data-img-src-{{ imgnum }}="{{ imginfo | prepend: site.baseurl | replace: '//', '/' }}"
-		{% endif %}
-	  {% endfor %}
-    {% endfor %}
-  ></div>
+<div id="header-big-imgs" data-num-img={% if page.bigimg.first %}{{ page.bigimg.size }}{% else %}1{% endif %} {% for
+  bigimg in page.bigimg %} {% assign imgnum=forloop.index %} {% for imginfo in bigimg %} {% if imginfo[0] %}
+  data-img-src-{{ imgnum }}="{{ imginfo[0] | prepend: site.baseurl | replace: '//', '/' }}" data-img-desc-{{ imgnum
+  }}="{{ imginfo[1] }}" {% else %} data-img-src-{{ imgnum
+  }}="{{ imginfo | prepend: site.baseurl | replace: '//', '/' }}" {% endif %} {% endfor %} {% endfor %}></div>
 {% endif %}
 
 <header class="header-section {% if page.bigimg %}has-img{% endif %}">
-{% if page.bigimg %}
-<div class="big-img intro-header">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <div class="{{ include.type }}-heading">
-          <h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>
-		  {% if page.subtitle %}
-		    {% if include.type == "page" %}
+  {% if page.bigimg %}
+  <div class="big-img intro-header">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+          <div class="{{ include.type }}-heading">
+            <h1>{% if page.title %}{{ page.title }}{% else %}<br />{% endif %}</h1>
+            {% if page.subtitle %}
+            {% if include.type == "page" %}
             <hr class="small">
             <span class="{{ include.type }}-subheading">{{ page.subtitle }}</span>
-			{% else %}
-			<h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
-			{% endif %}
-		  {% endif %}
-		  
-          <!-- {% if include.type == "post" %}
+            {% else %}
+            <h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
+            {% endif %}
+            {% endif %}
+
+            <!-- {% if include.type == "post" %}
           <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
           {% endif %} -->
+          </div>
         </div>
       </div>
     </div>
+    <span class='img-desc'></span>
   </div>
-  <span class='img-desc'></span>
-</div>
-{% endif %}
-<div class="intro-header no-img">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <div class="{{ include.type }}-heading">
-          <h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>
-		  {% if page.subtitle %}
-		    {% if include.type == "page" %}
+  {% endif %}
+  <div class="intro-header no-img">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+          <div class="{{ include.type }}-heading">
+            <h1>{% if page.title %}{{ page.title }}{% else %}<br />{% endif %}</h1>
+            {% if page.subtitle %}
+            {% if include.type == "page" %}
             <hr class="small">
             <span class="{{ include.type }}-subheading">{{ page.subtitle }}</span>
-			{% else %}
-			<h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
-			{% endif %}
-		  {% endif %}
-		  
-		  {% if include.type == "post" %}
-		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
-		  {% endif %}
+            {% else %}
+            <h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
+            {% endif %}
+            {% endif %}
+
+            {% if include.type == "post" %}
+            <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
+            {% endif %}
+          </div>
         </div>
       </div>
     </div>
   </div>
-</div>
 </header>
 
 
 {% else %}
 <div class="intro-header"></div>
 {% endif %}
-
