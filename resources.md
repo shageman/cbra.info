@@ -13,7 +13,7 @@ permalink: /resources
 
 ### Talks
 
-* [Using Rails Engines to Supercharge Your Team(RailsConf 2023)](https://www.youtube.com/watch?v=ZE9dKoBIr48) by Austin Story, 2023
+* [Using Rails Engines to Supercharge Your Team (RailsConf 2023)](https://www.youtube.com/watch?v=ZE9dKoBIr48) by Austin Story, 2023
 * [All you need is Rails (Engines): Compartmentalising your Monolith](https://www.youtube.com/watch?v=StDoHXO8H6E) by Julián Pinzón Eslava, 2023
 * [Between monoliths and microservices](https://railsconf.com/2020/video/vladimir-dementyev-between-monoliths-and-microservices) by Vladimir Dementyev, 2020
 * [Get started with Component-based Rails applications!](https://confreaks.tv/videos/railsconf2015-get-started-with-component-based-rails-applications) by Stephan Hagemann, 2015
